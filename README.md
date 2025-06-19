@@ -11,11 +11,11 @@
 
 ![](https://komarev.com/ghpvc/?username=Snehasikder)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fffaraz&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fffaraz&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fffaraz&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fffaraz&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fffaraz&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Snehasikder&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Snehasikder&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Snehasikder&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Snehasikder&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Snehasikder&theme=nord_dark)
 
 <!--![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Snehasikder&show_icons=true&locale=en)-->
 
