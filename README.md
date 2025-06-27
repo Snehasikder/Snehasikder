@@ -17,9 +17,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Snehasikder&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Snehasikder&theme=nord_dark)
 
-<div align="center">
-  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snehasikder&layout=compact&theme=dark&hide_border=false" />
-  </div>
+  <!--<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snehasikder&layout=compact&theme=dark&hide_border=false" />-->
   
 <!--![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Snehasikder&show_icons=true&locale=en)-->
 
