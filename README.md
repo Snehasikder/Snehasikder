@@ -17,6 +17,16 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Snehasikder&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Snehasikder&theme=nord_dark)
 
+<div align="center">
+  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafiul-afk&layout=compact&theme=dark&hide_border=false" />
+  </div>
+  
+## Top Contributed Repo
+<div align="center">
+
+![](https://github-contributor-stats.vercel.app/api?username=nafiul-afk&limit=5&theme=highcontrast&combine_all_yearly_contributions=true)
+
+  </div>
 <!--![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Snehasikder&show_icons=true&locale=en)-->
 
 ### **Web Development**
