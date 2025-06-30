@@ -10,8 +10,7 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-
-![Number Of Mortals That Have Laid Eyes On My Profile](https://komarev.com/ghpvc/?username=Snehasikder&label=Number%20Of%20Mortals%20That%20Have%20Laid%20Eyes%20On%20My%20Profile&color=orange&style=flat-square)
+![Number Of Mortals That Have Laid Eyes On My Profile](https://komarev.com/ghpvc/?username=Snehasikder&label=Number%20Of%20Mortals%20That%20Have%20Laid%20Eyes%20On%20My%20Profile&label_color=000000&color=6fff57&style=flat-square)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Snehasikder&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Snehasikder&theme=nord_dark)
