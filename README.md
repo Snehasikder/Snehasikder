@@ -11,7 +11,7 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 
-![](https://komarev.com/ghpvc/?username=Snehasikder)
+![Number Of Mortals That Have Laid Eyes On My Profile](https://komarev.com/ghpvc/?username=Snehasikder)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Snehasikder&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Snehasikder&theme=nord_dark)
@@ -27,6 +27,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Thanks For Visiting My Profile](https://i.pinimg.com/736x/b7/a6/78/b7a678fb0b7ef4e2a5da3cf3c1ede987.jpg)
 
 
 
