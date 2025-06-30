@@ -1,11 +1,11 @@
 # 💫 About Me:
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmR2YXhxdzdvbHhzeGdzc2lmZnk1aGN4aXRvMWhjbGE3cXp4a3IweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GS0kSWV6x6qS11XDFv/giphy.gif" width="300" alt="Welcome GIF">
 
-<br><br>👋 Hi there! I'm Sneha Sikder<br><br>🎓 **High School Student**  <br>- 📚 Currently in my last year at **Ideal School & College**  <br>
+<br><br>👋<h1> Hi there! I'm Sneha Sikder<br><br>🎓 **High School Student**  <br>- 📚 Currently in my last year at **Ideal School & College**  <br></h1>
 
 ---
 
-## 🛠️ Tech Stack
+## <h2>🛠️ Tech Stack</h2>
 ### **Languages I Have Learnt/ Learning:**
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -29,6 +29,9 @@
 ![Thanks For Visiting My Profile](https://i.pinimg.com/736x/b7/a6/78/b7a678fb0b7ef4e2a5da3cf3c1ede987.jpg)
 
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6FFF57&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile!;Happy+coding+%F0%9F%91%BB" />
+</p>
 
 
 
