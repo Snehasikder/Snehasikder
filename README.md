@@ -6,7 +6,7 @@
 ---
 
 ## <h1>🛠️ Tech Stack</h1>
-<h2>### **Languages I Have Learnt/ Learning:**</h2>
+### **Languages I Have Learnt/ Learning:**
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
