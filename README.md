@@ -13,8 +13,8 @@
 
 ![Number Of Mortals That Have Laid Eyes On My Profile](https://komarev.com/ghpvc/?username=Snehasikder)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Snehasikder&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Snehasikder&theme=nord_dark)
+!vv[](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Snehasikder&theme=nord_dark)
+![bbbbb](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Snehasikder&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Snehasikder&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Snehasikder&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Snehasikder&theme=nord_dark)
