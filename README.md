@@ -1,4 +1,6 @@
 # 💫 About Me:
+![](https://tenor.com/ldlbeMZbzwF.gif)
+
 <br><br>👋 Hi there! I'm Sneha Sikder<br><br>🎓 **High School Student**  <br>- 📚 Currently in my last year at **Ideal School & College**  <br>
 
 ---
