@@ -38,7 +38,6 @@
 </p>
 
 
-
 <h2>🌟 **Projects & Interests**  <br>- Exploring new technologies and building real-world solutions  <br>- Developed 'Cyborgtech', a fictional cyborg body part selling enterprise. </h2>
 
 
