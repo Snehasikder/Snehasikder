@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hi there! I'm Sneha Sikder<br><br></h1>
 <br><h2>🎓 **High School Student**  <br>- **📚 Currently in my last year at **Ideal School & College**  </h2>
 
-## <h1>🛠️ Tech Stack</h1>
+ <h1 align="center">🛠️ Tech Stack</h1>
 
 ### **Languages I Have Learnt/ Learning:**
 
