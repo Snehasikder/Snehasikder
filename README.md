@@ -1,10 +1,10 @@
 # 💫 About Me:
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmR2YXhxdzdvbHhzeGdzc2lmZnk1aGN4aXRvMWhjbGE3cXp4a3IweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GS0kSWV6x6qS11XDFv/giphy.gif" width="300" alt="Welcome GIF">
 <h1 align="center">👋 Hi there! I'm Sneha Sikder<br><br></h1>
-<br><h2>🎓 **High School Student**  <br> **📚 Currently in my last year at **Ideal School & College**  </h2>
+<br><h2>🎓 **High School Student**  <br> **📚 Currently in my last year at **Ideal School & College** <br> </h2>
 <br>
  <h1 align="center">🛠️ Tech Stack</h1>
-
+<br>
 ### **Languages I Have Learnt/ Learning:**
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
