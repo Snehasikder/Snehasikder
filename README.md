@@ -13,7 +13,7 @@
 ---
 
 ## 🎓 About Me  
-- 🎒 Final year at **Ideal School & College**  
+- 🎒 High School final year at **Ideal School & College**  
 - 🌱 Currently learning **Web Development & Programming**  
 - 💡 Love exploring **real-world problem solving with tech**  
 - 🎨 Side interests: **designing, innovation & storytelling**  
