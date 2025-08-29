@@ -3,6 +3,8 @@
   
 # 💫 Hey, I'm Sneha Sikder 👩‍💻  
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmR2YXhxdzdvbHhzeGdzc2lmZnk1aGN4aXRvMWhjbGE3cXp4a3IweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GS0kSWV6x6qS11XDFv/giphy.gif" width="300" alt="Welcome GIF">  
+<br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6FFF57&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile!;Happy+coding+%F0%9F%91%BB" />
 
 ✨ A passionate high schooler chasing **creativity + technology** ✨  
 
