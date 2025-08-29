@@ -69,6 +69,6 @@
 
 <div align="center">
   
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6FFF57&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+💚;Happy+Coding+👾;Keep+Building+Keep+Growing+🚀" />
+[Thanks For Visiting My Profile](https://i.pinimg.com/736x/b7/a6/78/b7a678fb0b7ef4e2a5da3cf3c1ede987.jpg)
 
 </div>
